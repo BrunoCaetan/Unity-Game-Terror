@@ -1,0 +1,4 @@
+repository "Game-Terror@BRNK7NG@cloud"
+  path "/"
+    br "/main"
+    co "/main"
